@@ -1,2 +1,2 @@
 # hello-world-code
-code project description
+codes projects descriptions
